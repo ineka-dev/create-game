@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ineka-dev/create-game/compare/v1.0.0...v1.0.1) (2022-05-09)
+
+
+### Bug Fixes
+
+* fixed default template package.json ([09365c4](https://github.com/ineka-dev/create-game/commit/09365c49b65f361d30a4bf5ea44044171ca3f427))
+
 # 1.0.0 (2022-05-09)
 
 
