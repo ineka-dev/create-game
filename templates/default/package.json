@@ -15,5 +15,5 @@
   },
   "dependencies": {
     "@ineka/engine": "^2.0.0"
-  },
+  }
 }
