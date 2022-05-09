@@ -1,0 +1,19 @@
+{
+  "name": "{{kebab name}}",
+  "version": "0.0.1",
+  "private": true,
+  "description": "{{description}}",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel static/index.html",
+    "build": "parcel build static/index.html"
+  },
+  "author": "{{contact}}",
+  "license": "{{license}}",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@ineka/engine": "^2.0.0"
+  },
+}
