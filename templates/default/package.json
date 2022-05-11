@@ -3,10 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "description": "{{description}}",
-  "main": "main.js",
   "scripts": {
-    "dev": "parcel static/index.html",
-    "build": "parcel build static/index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "{{contact}}",
   "license": "{{license}}",
