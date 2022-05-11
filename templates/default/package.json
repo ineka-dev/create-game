@@ -13,6 +13,6 @@
     "parcel": "^2.5.0"
   },
   "dependencies": {
-    "@ineka/engine": "^2.0.0"
+    "@ineka/engine": "latest"
   }
 }
