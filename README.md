@@ -3,7 +3,7 @@
 
 <a href="https://www.npmjs.com/package/@ineka/create-game"><img alt="npm" src="https://img.shields.io/npm/v/@ineka/create-game?style=for-the-badge"></a>
 <a href="https://github.com/ineka-dev/create-game/actions/workflows/release.yml"><img alt="GitHub Workflow Status Release" src="https://img.shields.io/github/workflow/status/ineka-dev/create-game/Release?logo=github&style=for-the-badge"></a>
-<a href="https://github.com/ineka-dev/create-game/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ineka-dev/create-game?color=black&style=for-the-badge"></a>
+<a href="https://github.com/ineka-dev/create-game/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ineka-dev/create-game?color=black&style=for-the-badge"></a>
 <a href="https://github.com/ineka-dev/create-game/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/ineka-dev/create-game?style=for-the-badge">
 </a>
 <a href="https://github.com/ineka-dev/create-game/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/ineka-dev/create-game?style=for-the-badge"></a>
