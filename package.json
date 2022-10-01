@@ -1,7 +1,7 @@
 {
   "name": "@ineka/create-game",
   "description": "Scaffolds a new game project with Ineka",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Colin Espinas",
   "scripts": {
     "build": "tsup src/cli.ts --minify",

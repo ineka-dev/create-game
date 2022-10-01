@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/ineka-dev/create-game/compare/v1.2.0...v1.2.1) (2022-10-01)
+
+
+### Bug Fixes
+
+* now prompts for template ([e452161](https://github.com/ineka-dev/create-game/commit/e45216145cd51a4d0788928dfb56bf6416dceb33))
+
 # [1.2.0](https://github.com/ineka-dev/create-game/compare/v1.1.0...v1.2.0) (2022-10-01)
 
 
