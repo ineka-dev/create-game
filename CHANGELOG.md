@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ineka-dev/create-game/compare/v1.1.0...v1.2.0) (2022-10-01)
+
+
+### Features
+
+* added working desktop template with tauri ([ad524e7](https://github.com/ineka-dev/create-game/commit/ad524e70b8764d6e369cb38ec661489dbc5ddb5f))
+
 # [1.1.0](https://github.com/ineka-dev/create-game/compare/v1.0.3...v1.1.0) (2022-07-03)
 
 
