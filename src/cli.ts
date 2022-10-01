@@ -19,4 +19,5 @@ ${chalk.gray('>')} ${chalk.green(`npm run build`)}
 create('create-game', {
   templateRoot,
   caveat,
+  promptForTemplate: true,
 });
