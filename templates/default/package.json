@@ -11,8 +11,8 @@
   "author": "{{contact}}",
   "license": "{{license}}",
   "devDependencies": {
-    "typescript": "^4.5.4",
-    "vite": "^2.9.9"
+    "typescript": "^5.1.6",
+    "vite": "^4.4.2"
   },
   "dependencies": {
     "@ineka/engine": "latest"
